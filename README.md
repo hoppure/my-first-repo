@@ -1,2 +1,2 @@
 # my-first-repo
-pass
+Hello this is my first-repository
