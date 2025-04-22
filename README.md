@@ -15,6 +15,7 @@ trivial solution is unique solution
 # PRoject name
 
 this is abstract
+
 badges - 1 line explanation
 
 ----------
@@ -33,9 +34,9 @@ See Demo[Here](https://www.google.com/)
 ## How to start
 
 ```shell
-$ git clone addr
-$ cd my-first-repo
-$ python main.py
+git clone addr
+cd my-first-repo
+python main.py
 ```
 
 ## Installation
@@ -52,6 +53,6 @@ for _ in range(3):
 만약 문장 안에서 특정한 코드 (예 :  `print('hello')`) 하이라이트가 필요하다면, backquoute 로 감싸주시면 됩니다.
 
 
-## Credit
+## Credits
 
--@hoppure
+ - @hoppure
