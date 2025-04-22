@@ -8,5 +8,10 @@ print("good-bye")
 print("bye bye")
 print("Say-good bye")
 
-for i in rnage(10)
+for i in range(10):
     print("say 10")
+
+
+
+import pandas as pd
+
